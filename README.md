@@ -9,4 +9,6 @@ Juan Felipe Hincapié Gómez.
 
 Objetivo: Desarrollar un programa que permita buscar libros y obtener su cita bibliográfica en normas APA.
 
-El programa necesita la librería io para operar.
+El programa necesita las siguientes librerías: io, Tkinter.
+Ejecutar los siguientes comandos para instalar las librerías:
+
