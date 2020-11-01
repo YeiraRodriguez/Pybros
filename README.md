@@ -9,4 +9,4 @@ Juan Felipe Hincapié Gómez.
 
 Objetivo: Desarrollar un programa que permita buscar libros y obtener su cita bibliográfica en normas APA.
 
-- El prgrama necesita la librería para operar.
+El programa necesita la librería io para operar.
