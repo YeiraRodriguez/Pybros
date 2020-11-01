@@ -5,7 +5,7 @@ Grupo #5.
 Integrantes:
 -Daniela Forero Rosales.
 -Yeira Liseth Rodríguez Rodríguez.
--Juan Felipe Hioncapié Gómez.
+-Juan Felipe Hincapié Gómez.
 
 Objetivo: programa que permita obtener la informaión bibliográfica de un libro solicitado.
 
